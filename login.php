@@ -23,7 +23,7 @@ include "connect.php";
          $email=$_POST['email'];
          $password=$_POST['password'];
 
-         $query = "SELECT * FROM login WHERE	email = '$email' AND password = md5('$password')";
+         $query = "SELECT * FROM login WHERE email = '$email' AND password = md5('$password')";
 
          $query_run = mysqli_query($con,$query);
 
