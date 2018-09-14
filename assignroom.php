@@ -18,7 +18,7 @@ include "connect.php";
          <nav>
             <ul>
                <li id="title"><a href="Login.php">Logout</a></li>
-               <li><a href="home.php"> Home </a></li>
+               <li><a href="index.php"> Home </a></li>
                <li><a href="mreview.php"> Review </a></li>
                <li><a href="msg.php"> Messages </a></li>
                <li><a href="mroomview.php"> Rooms </a></li>

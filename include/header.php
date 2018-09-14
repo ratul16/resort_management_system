@@ -15,7 +15,7 @@
          <nav>
             <ul>
                <li id="title"><a href="Login.php">Login</a></li>
-               <li><a href="home.php"> Home </a></li>
+               <li><a href="index.php"> Home </a></li>
                <li><a href="Room.php"> Rooms </a></li>
                <li><a href="review.php"> Review </a></li>
                <li><a href="Search.php"> Search Booking </a></li>
